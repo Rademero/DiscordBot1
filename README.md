@@ -1,1 +1,1 @@
-Just me, and a Freind making a discord bot to relern javascript 
+Just me, and a Friend making a discord bot to relern javascript 
